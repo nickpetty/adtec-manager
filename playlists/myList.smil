@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/2001/SMIL20/Language">
+<head></head>
+<body>
+	<seq>		<ref src="/media/hd0/media/default2.mpg" />
+		<ref src="/media/hd0/media/default10.mpg" />
+	</seq>
+</body>
+</smil>
